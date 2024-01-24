@@ -39,7 +39,7 @@ export const products = [
 
 export const services = [
     {
-        label: "Friednly Environment",
+        label: "Friendly Environment",
         subtext: "Building Strength, Fostering Unity: Your Journey to Fitness in a Gym Where Support is Standard."
     },
     {
